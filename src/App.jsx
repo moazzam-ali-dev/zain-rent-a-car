@@ -104,9 +104,8 @@ function App() {
           {/* ================= CALL BUTTON ================= */}
           <a
             href="tel:+923224377518"
-            className="hidden items-center gap-2 rounded-full bg-yellow-400 px-5 py-3 text-sm font-bold text-black transition hover:bg-yellow-300 md:flex"
-          >
-            <Phone size={17} />
+            className="hidden md:inline-flex items-center gap-2 bg-amber-500 hover:bg-amber-600 text-blackl font-semibold px-5 py-2.5 rounded-full transition-all"
+            >
             Call Now
           </a>
 
