@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zain-rent-a-car.vercel.app/sitemap.xml
