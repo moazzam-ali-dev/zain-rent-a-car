@@ -177,7 +177,7 @@ function App() {
         {/* HERO IMAGE */}
         <img
           src="https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/678/2019-audi-a6_100678982.jpg"
-          alt="Audi A6 - Zain Rent a Car"
+          alt="Audi A6 car rental in Lahore - Zain Rent a Car & Tours"
           className="absolute inset-0 h-full w-full object-cover opacity-80"
         />
 
@@ -203,22 +203,21 @@ function App() {
             {/* HERO HEADING */}
             <h2 className="text-5xl font-black leading-tight text-white sm:text-6xl lg:text-7xl">
 
-              Your Journey.
+               Car Rental in Lahore.
               <br />
 
               <span className="text-yellow-400">
-                Our Ride.
+                 Your Journey, Our Ride.
               </span>
 
             </h2>
 
             {/* DESCRIPTION */}
             <p className="mt-6 max-w-xl text-lg leading-8 text-gray-300">
-
-              Reliable cars, professional drivers and unforgettable journeys.
-              Book your perfect ride with Zain Rent a Car & Tours.
-
-            </p>
+             Looking for reliable car rental in Lahore? Zain Rent a Car & Tours
+             offers comfortable cars, professional drivers, airport transfers,
+             luxury vehicles and customized tours across Pakistan.
+           </p>
 
             {/* ================= BUTTONS ================= */}
             <div className="mt-8 flex flex-wrap gap-4">
